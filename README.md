@@ -1,8 +1,8 @@
-# Enterprise Network Security Lab
+# Network Security Lab
 
 ## Objective
 
-Designed and configured a small enterprise network using Cisco Packet Tracer, implementing VLAN segmentation, inter-VLAN routing, SSH-based secure management, and basic switch security.
+Designed and configured a small network using Cisco Packet Tracer, implementing VLAN segmentation, inter-VLAN routing, SSH-based secure management, and basic switch security.
 
 ## Network Components
 
